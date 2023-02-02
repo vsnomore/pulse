@@ -1,0 +1,15 @@
+.title {
+    margin: 0;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: $secondary-color;
+    text-transform: uppercase;
+
+    &_consultation {
+        font-size: 36px;
+        line-height: 54px;
+        text-align: left;
+        color: #FFFFFF;
+    }
+}
